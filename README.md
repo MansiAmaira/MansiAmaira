@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mansi</h1>
 <h3 align="center">A passionate programmer and developer from India</h3>
 
