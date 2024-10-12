@@ -2,6 +2,7 @@
 <h3 align="center">A passionate programmer and developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio66.vercel.app/](https://my-portfolio66.vercel.app/)
+- LeetCode [https://leetcode.com/u/MansiAmaira/]
 
 - 📫 How to reach me **mansikumari21980@gmail.com**
 
